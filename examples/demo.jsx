@@ -1,5 +1,4 @@
 import React from 'react';
-import '../assets/demo.less';
 
 export default class Demo extends React.Component {
     render() {
